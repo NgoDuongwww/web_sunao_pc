@@ -20,7 +20,7 @@ Sunao.project is designed to provide a seamless and engaging user experience. Be
 
 This preview highlights the structured layout and responsive design, ensuring that the project functions flawlessly across various devices, including desktops, tablets, and mobile phones.
 <p align="center">
-  <img width="35%" height="100%" src="public/img/image_on_phone.png" width=600><br/>
+  <img width=40%" height="100%" src="public/img/image_on_phone.png" width=600><br/>
   <i>Home Page</i>
 </p>
 
