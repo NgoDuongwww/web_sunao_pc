@@ -25,13 +25,11 @@ This preview highlights the structured layout and responsive design, ensuring th
 </p>
 
 ## 🔗 Access
-
 You can access the project through the following:
 1. **Website**: [Sunao.site](https://sunao.site)
 2. **GitHub**: [Sunao on GitHub](https://github.com/NgoDuongwww/web_sunao_pc.git)
 
 ## 🧑‍💻 How to use my code
-
 Follow these steps to get started with the project:
 
 ##### 1. Clone the Repository
@@ -46,10 +44,12 @@ Next, navigate to the project directory:
 ```bash
 cd web_sunao_pc
 ```
+
 If your project uses Node.js, run the following command to install all required dependencies:
 ```bash
 npm install
 ```
+
 If you're using PHP, ensure that you have Composer installed, and run:
 ```bash
 composer install
