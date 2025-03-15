@@ -26,8 +26,7 @@ This preview highlights the structured layout and responsive design, ensuring th
 
 ## 🔗 Access
 You can access the project through the following:
-1. **Website**: [Sunao.site](https://sunao.site)
-2. **GitHub**: [Sunao on GitHub](https://github.com/NgoDuongwww/web_sunao_pc.git)
+**GitHub**: [Sunao on GitHub](https://github.com/NgoDuongwww/web_sunao_pc.git)
 
 ## 🧑‍💻 How to use my code
 Follow these steps to get started with the project:
