@@ -1,76 +1,74 @@
 <p align="center">
- <h1 align="center">Sunao Website</h1>
+  <h1 align="center">💻Sunao Website💻</h1>
 </p>
 
-## 💡Introduction
-Sunao project is a modern online platform designed to deliver an optimized user experience. The project emphasizes not only aesthetics and a user-friendly interface but also ensures high performance, cross-platform compatibility, and exceptional security.
+---
+## 💡 Introduction  
+Sunao is a modern e-commerce platform specializing in high-performance laptops, PCs, and accessories. Designed for speed, security, and ease of use, the platform ensures a seamless shopping experience on any device.
 
-#### Key Features:
- - 📱 Cross-device compatibility: Seamlessly accessible on desktops, tablets, and mobile devices.
- - ⚡ Optimized performance: Fast loading speeds for a smooth and uninterrupted experience.
- - 🛡️ Safety and security: User data is safeguarded with the latest encryption standards.
- - 🎨 Impressive design: Focused on simplicity and visual appeal, making navigation effortless.
+### 🌟 Key Features  
+- 📱 **Cross-device compatibility** – Works flawlessly on desktops, tablets, and smartphones.  
+- ⚡ **Optimized performance** – Fast loading speeds for smooth navigation.  
+- 🛡️ **Enhanced security** – Advanced encryption protects user data.  
+- 🎨 **Modern design** – Clean, intuitive, and visually appealing interface.  
 
-## 🖼️ Preview
-Sunao.project is designed to provide a seamless and engaging user experience. Below is a snapshot of the Home Page as viewed on a laptop/pc, showcasing the clean and intuitive interface that makes it easy for users to browse products and place orders.
+---
+## 🖼️ Preview  
+A glance at Sunao’s homepage on different devices:  
+
 <p align="center">
-  <img src="public/img/image.png" width=600><br/>
-  <i>Home Page</i>
+  <img src="public/img/image.png" width="600" alt="Laptop View"/><br/>
+  <i>Homepage (Laptop View)</i>
 </p>
 
-This preview highlights the structured layout and responsive design, ensuring that the project functions flawlessly across various devices, including desktops, tablets, and mobile phones.
 <p align="center">
-  <img width=40%" height="100%" src="public/img/image_on_phone.png" width=600><br/>
-  <i>Home Page</i>
+  <img src="public/img/image_on_phone.png" width="300" alt="Mobile View"/><br/>
+  <i>Homepage (Mobile View)</i>
 </p>
 
-## 🔗 Access
-You can access the project through the following:
-**GitHub**: [Sunao on GitHub](https://github.com/NgoDuongwww/web_sunao_pc.git)
+---
+## 🎮 User Guide  
+1️⃣ **Browse Products** – Explore laptops, PCs, and accessories. View detailed specs and customer reviews.  
+2️⃣ **Add to Cart** – Select your products and add them to the cart.  
+3️⃣ **Secure Checkout** – Choose a payment method (bank transfer, e-wallet, etc.) and complete your order.  
+4️⃣ **Order Management** – Track order status and receive notifications.  
+5️⃣ **Admin Dashboard** – Admins can manage products, orders, and customers.  
 
-## 🧑‍💻 How to use my code
-Follow these steps to get started with the project:
+---
+## ⚙️ **Setup & Run Application**
 
-##### 1. Clone the Repository
-First, clone the project repository to your local machine using Git. Open your terminal or command prompt and run the following command:
-```bash
-git clone https://github.com/NgoDuongwww/web_sunao_pc.git
-```
-This will download the project files to your local machine.
+### 📌 **Requirements**
+- Local server environment (**XAMPP, WAMP** for offline usage)
+- Modern browser (**Google Chrome, Brave, Firefox, etc.**)
 
-##### 2. Install dependencies.
-Next, navigate to the project directory:
-```bash
-cd web_sunao_pc
-```
+### 🚀 **Installation Steps**
+1️⃣ **Clone the repository**:
+   ```bash
+   git clone https://github.com/NgoDuongwww/web_sunao_pc.git
+   ```
+2️⃣ **Set up the database**: Import the provided SQL file into MySQL.
+3️⃣ **Configure database connection** in `pdo.php`.
+4️⃣ **Run the application** on a local server or deploy it online.
 
-If your project uses Node.js, run the following command to install all required dependencies:
-```bash
-npm install
-```
+---
+## 🛠 Technologies Used
+### 🌐 **Frontend**
+- <img src="public/img/html.svg"> **HTML**
+- <img src="public/img/css3.svg"> **CSS**
+- <img src="public/img/js.svg"> **JavaScript**
+- <img src="public/img/bootstrap.svg"> **Bootstrap**
 
-If you're using PHP, ensure that you have Composer installed, and run:
-```bash
-composer install
-```
-This will install all necessary packages and libraries required for the project to function correctly.
+### 🖥 **Backend**
+- <img src="public/img/php.svg"> **PHP(MVC)**
+- <img src="public/img/mysql.svg" width="30" height="30"> **MySQL**
 
-##### 3. Set up your environment.
-Before running the project, you need to configure the environment.
- - Environment Variables: If your project requires any sensitive information (e.g., database credentials, API keys), these should be stored in an .env file.
- - Create a new .env file in the project root if it doesn’t already exist.
- - Populate it with the necessary keys or configurations as per your project documentation.
+### 🛠 **Development Tools**
+- <img src="public/img/visualstudio_code.svg"> **Visual Studio Code**
+- <img src="public/img/git.svg" width="30" height="30"> **Git**
+- <img src="public/img/laragon.svg" width="30" height="30"> **Laragon**
 
-##### 4. Run the project locally and explore!
-Once everything is set up, you can run the project locally:
- - For Node.js-based projects, use the following command to start the server:
-```bash
-npm start
-```
- - For PHP-based projects, you can use the built-in PHP server:
-```bash
-php -S localhost:8000
-```
-Now, open your web browser and go to `http://localhost:8000` to view the project running locally.
+---
+## 🤝 **Contributing**
+I welcome all contributions! If you have ideas or improvements, feel free to open an **issue** or submit a **pull request** to help enhance the project.
 
-## 📣 Happy coding! 🚀
+# 📣 Happy coding! 🚀
