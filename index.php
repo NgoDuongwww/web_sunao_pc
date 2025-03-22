@@ -12,6 +12,7 @@ include "view/header.php";
 include 'model/banners.php';
 include "global.php";
 
+
 if (!isset($_SESSION['mycart'])) $_SESSION['mycart'] = [];
 
 $spnew = loadall_sanpham_home();

@@ -5,7 +5,8 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="google-site-verification" content="X250-zh1LNLHHNZgUOHLhOYXGqjLq7x3zibdSh2Uj5w" />
-  <meta name="description"
+  <meta
+    name="description"
     content="Sunao PC Store is an online retail website specializing in PC gear, desk, chair, keyboard, mouse and headset.">
 
   <!-- FONTAWESOME -->
@@ -22,7 +23,7 @@
   <link rel="stylesheet" href="/public/css/sub__home.css">
   <!-- END CSS -->
   <!-- ----------------------------------------------------------------------------- -->
-  <script src="/public/javascript/home.js"></script>
+
   <title>Sunao - FPoly</title>
 </head>
 
