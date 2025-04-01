@@ -17,7 +17,7 @@ Sunao is a modern e-commerce platform specializing in high-performance laptops, 
 A glance at Sunao’s homepage on different devices:  
 
 <p align="center">
-  <img src="public/img/image.png" width="600" alt="Laptop View"/><br/>
+  <img src="public/img/image_on_pc.png" width="600" alt="Laptop View"/><br/>
   <i>Homepage (Laptop View)</i>
 </p>
 
