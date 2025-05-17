@@ -35,22 +35,6 @@ A glance at Sunao’s homepage on different devices:
 5️⃣ **Admin Dashboard** – Admins can manage products, orders, and customers.  
 
 ---
-## ⚙️ **Setup & Run Application**
-
-### 📌 **Requirements**
-- Local server environment (**XAMPP, WAMP** for offline usage)
-- Modern browser (**Google Chrome, Brave, Firefox, etc.**)
-
-### 🚀 **Installation Steps**
-1️⃣ **Clone the repository**:
-   ```bash
-   git clone https://github.com/NgoDuongwww/web_sunao_pc.git
-   ```
-2️⃣ **Set up the database**: Import the provided SQL file into MySQL.
-3️⃣ **Configure database connection** in `pdo.php`.
-4️⃣ **Run the application** on a local server or deploy it online.
-
----
 ## 🛠 Technologies Used
 ### 🌐 **Frontend**
 - <img src="public/img/html.svg"> **HTML**
